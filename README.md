@@ -8,16 +8,16 @@
 --- 
 
 ## Technical Proficiencies
-- **Languages** Javascript, Java, Python, SQL, HTML, CSS, JSON, XML, YAML  
-- **Test Tools** Postman/Newman, PyTest, Selenium Grid, Allure Reports, SoapUI, Browserstack, JMeter, Robot Framework, TestNG  
-- **Other Tools** Docker, Git, CouchDB, ElasticSearch, VSCode, Jira, Confluence, Consul, Nomad  
+- **Languages** Python, Javascript, Typescript, Java, SQL, HTML, CSS, JSON, XML, YAML  
+- **Test Tools** WebDriver, Selenium Grid, Appium, Maestro, RESTAssured, Postman/Newman, SoapUI, Allure Reports, Browserstack, JMeter  
+- **Other Tools** Git, Docker, CouchDB, ElasticSearch, Jira, Confluence, Consul, Nomad  
 
 --- 
 
 ## Background
-With over 15 years of experience in IT spanning various sectors, I have continually evolved my expertise to meet the dynamic demands of the industry. My journey has encompassed diverse roles including business analysis, software development, application support, and quality assurance. I have found Quality Assurance the best fit for my skills and mindset and have been developing in this role since 2015. My previous experience afford me an unusually broad perspective which I believe makes me a better tester and to do the "glue" work within/across teams.
+In my 20 year career spanning various sectors in the IT industry, I have continually evolved my expertise to meet the dynamic demands of the industry. My journey has encompassed diverse roles including Business Analysis, Software Development, Application Support, and Quality Assurance. I have found Quality Assurance the best fit for my skills and mindset and have been learning & growing in this role since 2015. My previous experience has afforded me an unusually broad perspective making me as a better tester, helping me do the "glue" work within/across teams, and ensuring the focus is on improving confidence in, and quality of, the software delivered.
 
-In my current role as a Senior QA Analyst, I've been instrumental in revolutionizing test automation strategies for front-end and back-end applications. This has included using Postman/Newman and/or SoapUI to test applications, services, or APIs written in Java, Node.js, AngularJS, and C# .NET, often requiring the development of complex collections to implement intricate test scenarios with precision. Additionally, I've acquired an understanding of service discovery and orchestration by using Consul and Nomad by HashiCorp. Most notably, I've pioneered the development of a robust test automation framework for a web-based application, leveraging Python, WebDriver, and a Dockerized Selenium Grid. The incorporation of Allure reporting has enabled comprehensive test result visualization enhancing overall project transparency.
+In my most recent roles at Apadmi and Magellan Robotech I have lead test automation projects and implemented UI and API test automation frameworks from scratch for web & mobile native applications and back-end services. This has involved using a range of tools and technologies (e.g. python, java, javascript, selenium, appium, Postman/Newman, RESTAssured, and SoapUI) proving my adaptability, capacity to learn, and growth mindset.
 
 My commitment to excellence is underscored by my exceptional verbal and written communication skills. I possess a proven ability to adapt my language to cater to the technical proficiency levels of diverse stakeholders, ensuring effective collaboration and knowledge dissemination across teams and stakeholders.
 
@@ -25,8 +25,15 @@ My commitment to excellence is underscored by my exceptional verbal and written 
 
 ## Employment History
 
-### May 2018 – Present: Senior QA Analyst, Magellan Robotech Limited
-- Played a pivotal role in defining standards, processes, and tooling for the QA function within the team, while also executing tests.
+### Apr 2024 – Dec 2025: Lead Test Automation Engineer, Apadmi Limited
+- Led the test automation initiative within the QA team
+- Developed E2E automation framework for mobile native applications using Java, TestNG, Appium, BrowserStack
+- Developed & executed non-functional (load & performance) tests using jmeter and gatling
+- Coached other team members helping them gain automation skills 
+
+### May 2018 – Feb 2024: Senior QA Analyst, Magellan Robotech Limited
+- Redeveloped automation framework for UI and API testing using python (pytest, requests, selenium etc) and selenium grid running in docker containers
+- Executed manual and automated tests
 - Expanded responsibilities to encompass traditional BA roles, involving requirement gathering, user story grooming, etc.
 - Involved in incident response/management and knowledge transfer sessions with support teams, leveraging growing knowledge of the business domain and infrastructure stack.
 
